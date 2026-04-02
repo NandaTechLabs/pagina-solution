@@ -37,7 +37,7 @@ This was my first practical project as a front-end developer, where I focused on
 
 ## 🔗 Live Demo
 
-👉 https://nandacoderdev.github.io/pagina-solution/
+👉 https://pagina-solution.vercel.app?_vercel_share=aoNKWbBbFb2GhuRH900lAVD8csyX5Idc
 
 ---
 
