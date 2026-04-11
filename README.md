@@ -60,7 +60,7 @@ This project was created to strengthen front-end fundamentals while applying a Q
 👩‍💻 Author
 
 Fernanda Marques
-GitHub: https://github.com/NandaTechLabs
+GitHub: https://github.com/NandaAtenaTec
 
 ## 📂 How to Run
 
